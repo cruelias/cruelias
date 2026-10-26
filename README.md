@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="540" height="293" alt="Image" src="https://github.com/user-attachments/assets/e4bc5256-e38b-4795-ae33-ef25943d0e5c" />
 
 <!--
 **cruelias/cruelias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
